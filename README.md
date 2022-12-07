@@ -1,8 +1,8 @@
 ># 记得点star
 
-gitee地址 https://gitee.com/xiangchengkang/qimo_ncu
+gitee地址 https://gitee.com/xiangchengkang/Political_final_knowledge_points_ncu
 
-github地址 https://github.com/2043766637/-_-_ncu
+github地址 https://github.com/2043766637/Political_final_knowledge_points_ncu
 
 ![sa](img/1.png)
 
